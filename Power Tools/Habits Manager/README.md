@@ -1,8 +1,8 @@
-# Habit Tracker
+# Your Habit 
 
 ## Description
 
-The **Habit Tracker** is a Python program designed to help users track and maintain their daily habits. By using this program, users can:
+The **Your Habit** is a Python program designed to help users track and maintain their daily habits. By using this program, users can:
 - Add new habits they want to track.
 - Set a goal for each habit (e.g., complete a habit for 30 days).
 - Mark each habit as completed on a specific day.
@@ -30,4 +30,4 @@ This program is ideal for anyone looking to build good habits, stay motivated, a
 3. **Navigate to the Program Folder**: Open a terminal/command prompt and navigate to the folder where `habit_tracker.py` is located.
 4. **Run the Program**:
    ```bash
-   python habit_tracker.py
+   python Your-Habits.py
