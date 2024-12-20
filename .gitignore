@@ -1,0 +1,23 @@
+# Virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Python packaging files
+build/
+dist/
+*.egg-info/
+*.egg
